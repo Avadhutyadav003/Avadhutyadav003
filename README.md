@@ -1,4 +1,4 @@
-# Pasinate Software Devloper:
+# Passionate Software Devloper:
 👋 Hi, I’m Avadhut Yadav<br><br>🔭 I’m currently working on an Airbnb Clone using the MERN stack.<br><br>👯 I’m looking for contributors to collaborate on open-source projects.<br><br>🤝 I’m looking for help with advanced React and backend optimization.<br><br>🌱 I’m currently learning React and full-stack development.<br><br>💼 I’m seeking an internship opportunity in MNCs to enhance my skills and gain real-world experience.
 
 
